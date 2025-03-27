@@ -10,8 +10,9 @@ st.set_page_config(
 
 # 📦 Imports
 import pandas as pd
-import seaborn as sns
+import seaborn as sns 
 import matplotlib.pyplot as plt
+
 
 # 🎨 Dark theme and Spotify styling
 
@@ -181,4 +182,4 @@ st.markdown(f"""
 # ======================
 # ✅ Footer
 st.markdown("---")
-st.markdown("Project by **Jade, Daniel, Luna & Laurie** – *Spotify Reco+* 💚")
+st.markdown("Project by **Jade, Daniel, Luna & Laurie** – *Spotify 💚")
